@@ -1,4 +1,4 @@
 test:
   adapter: postgresql
   database: tutsplus_ci
-  usernae: postgres
+  username: postgres
